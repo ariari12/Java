@@ -1,4 +1,4 @@
-package hellojpa.practice;
+package hellojpa.practice.class_instatnce;
 
 public class Bank {
     static int balance=0;
